@@ -1,5 +1,6 @@
 # GuideWire_SkyLogic
 AI-Powered Insurance for India’s  Gig Economy
+----------------
 Overview
 -----------
 Gig workers such as delivery partners working with platforms like Zomato, Swiggy, Amazon, Zepto, and Dunzo play a crucial role in supporting India’s rapidly growing digital economy. These workers depend heavily on daily deliveries for their income. However, their earnings are strongly influenced by external environmental conditions such as extreme weather, high pollution levels, or natural disasters.
