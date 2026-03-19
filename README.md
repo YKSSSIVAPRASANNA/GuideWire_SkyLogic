@@ -1,6 +1,12 @@
 # GuideWire_SkyLogic
 AI-Powered Insurance for India’s  Gig Economy
 ----------------
+Problem Statement
+------------------
+Gig workers such as delivery partners working with platforms like Zomato, Swiggy, Amazon, Zepto, and Dunzo rely on daily deliveries for their income. However, environmental conditions such as heavy rain, extreme temperatures, pollution, or natural disasters can reduce their working hours and lead to income loss.
+Most gig workers currently lack insurance coverage or financial safety nets to protect them from such disruptions. Additionally, traditional insurance systems involve manual and time-consuming claim processes.
+This project aims to develop a smart parametric insurance system that automatically compensates gig workers when predefined environmental conditions occur. Using AI, real-time environmental data, and automated payouts, the system ensures fast, transparent, and reliable income protection.
+
 Overview
 -----------
 Gig workers such as delivery partners working with platforms like Zomato, Swiggy, Amazon, Zepto, and Dunzo play a crucial role in supporting India’s rapidly growing digital economy. These workers depend heavily on daily deliveries for their income. However, their earnings are strongly influenced by external environmental conditions such as extreme weather, high pollution levels, or natural disasters.
@@ -10,12 +16,6 @@ When such disruptions occur, gig workers often experience reduced working hours 
 To address this issue, this project proposes an AI-enabled parametric insurance platform designed specifically for gig workers. The platform provides automated income protection whenever environmental disruptions affect their ability to work.
 
 The system utilizes real-time environmental data, AI-based risk analysis, and automated payout mechanisms to deliver quick financial support. By offering a simple and affordable weekly insurance model, the platform ensures that gig workers receive timely compensation without complicated claim procedures
-
-Problem Statement
-------------------
-Gig workers such as delivery partners working with platforms like Zomato, Swiggy, Amazon, Zepto, and Dunzo rely on daily deliveries for their income. However, environmental conditions such as heavy rain, extreme temperatures, pollution, or natural disasters can reduce their working hours and lead to income loss.
-Most gig workers currently lack insurance coverage or financial safety nets to protect them from such disruptions. Additionally, traditional insurance systems involve manual and time-consuming claim processes.
-This project aims to develop a smart parametric insurance system that automatically compensates gig workers when predefined environmental conditions occur. Using AI, real-time environmental data, and automated payouts, the system ensures fast, transparent, and reliable income protection.
 
 Key Features :
 ---------------
